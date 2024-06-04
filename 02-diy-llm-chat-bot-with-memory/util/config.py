@@ -10,7 +10,7 @@ os.environ["GROQ_API_KEY"] = secrets["GROQ_API_KEY"]
 
 class DBconfig:
     '''Configuration class for the database'''
-    mongo_url = "mongodb+srv://admin:admin@chatbotproduction.5z4vdo6.mongodb.net/"
+    mongo_url = secrets['MONGO_URL']
     mongo_db = "02-diy-llm-chat-bot-with-memory"
     chat_collection = "chat_history"
     user_collection = "user_details"
