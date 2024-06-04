@@ -1,0 +1,142 @@
+[
+    {
+      "Name": "John Doe",
+      "Email": "john.doe@example.com",
+      "Password": "P@ssw0rd123",
+      "Age": 28,
+      "Occupation": "Software Engineer"
+    },
+    {
+      "Name": "Jane Smith",
+      "Email": "jane.smith@example.com",
+      "Password": "Qwerty!23",
+      "Age": 32,
+      "Occupation": "Graphic Designer"
+    },
+    {
+      "Name": "Alice Johnson",
+      "Email": "alice.johnson@example.com",
+      "Password": "Alice@2022",
+      "Age": 24,
+      "Occupation": "Data Analyst"
+    },
+    {
+      "Name": "Robert Brown",
+      "Email": "robert.brown@example.com",
+      "Password": "Rb123456",
+      "Age": 45,
+      "Occupation": "Project Manager"
+    },
+    {
+      "Name": "Michael Lee",
+      "Email": "michael.lee@example.com",
+      "Password": "Michael@45",
+      "Age": 37,
+      "Occupation": "Accountant"
+    },
+    {
+      "Name": "Emily Davis",
+      "Email": "emily.davis@example.com",
+      "Password": "Em!ly2021",
+      "Age": 29,
+      "Occupation": "Marketing Specialist"
+    },
+    {
+      "Name": "David Wilson",
+      "Email": "david.wilson@example.com",
+      "Password": "DWilson@78",
+      "Age": 50,
+      "Occupation": "HR Manager"
+    },
+    {
+      "Name": "Sarah Martinez",
+      "Email": "sarah.martinez@example.com",
+      "Password": "S@rah2020",
+      "Age": 27,
+      "Occupation": "Nurse"
+    },
+    {
+      "Name": "James Anderson",
+      "Email": "james.anderson@example.com",
+      "Password": "James!234",
+      "Age": 34,
+      "Occupation": "Teacher"
+    },
+    {
+      "Name": "Patricia Thompson",
+      "Email": "patricia.thompson@example.com",
+      "Password": "Patti@78",
+      "Age": 42,
+      "Occupation": "Lawyer"
+    },
+    {
+      "Name": "Linda White",
+      "Email": "linda.white@example.com",
+      "Password": "LWhite!90",
+      "Age": 30,
+      "Occupation": "Journalist"
+    },
+    {
+      "Name": "Barbara Harris",
+      "Email": "barbara.harris@example.com",
+      "Password": "Barb!Harris",
+      "Age": 38,
+      "Occupation": "Doctor"
+    },
+    {
+      "Name": "Paul Clark",
+      "Email": "paul.clark@example.com",
+      "Password": "P@ulClark56",
+      "Age": 26,
+      "Occupation": "Architect"
+    },
+    {
+      "Name": "Steven Lewis",
+      "Email": "steven.lewis@example.com",
+      "Password": "Steven@78",
+      "Age": 31,
+      "Occupation": "Electrician"
+    },
+    {
+      "Name": "Jessica Walker",
+      "Email": "jessica.walker@example.com",
+      "Password": "Jess!2021",
+      "Age": 33,
+      "Occupation": "Pharmacist"
+    },
+    {
+      "Name": "George Hall",
+      "Email": "george.hall@example.com",
+      "Password": "George@90",
+      "Age": 44,
+      "Occupation": "Chef"
+    },
+    {
+      "Name": "Susan Allen",
+      "Email": "susan.allen@example.com",
+      "Password": "Sue!Allen",
+      "Age": 35,
+      "Occupation": "Therapist"
+    },
+    {
+      "Name": "Brian Young",
+      "Email": "brian.young@example.com",
+      "Password": "B@rian2021",
+      "Age": 28,
+      "Occupation": "Financial Advisor"
+    },
+    {
+      "Name": "Karen King",
+      "Email": "karen.king@example.com",
+      "Password": "Karen!2022",
+      "Age": 39,
+      "Occupation": "Engineer"
+    },
+    {
+      "Name": "Nancy Wright",
+      "Email": "nancy.wright@example.com",
+      "Password": "N@ncyWright",
+      "Age": 41,
+      "Occupation": "Dentist"
+    }
+  ]  
